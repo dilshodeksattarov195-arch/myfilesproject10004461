@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoreelete",
+        "uuid": 16394175,
+        "checksum": "5mhjv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
