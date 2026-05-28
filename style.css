@@ -1,0 +1,9 @@
+body { background: #abb3e; margin: 0; font-family: sans-serif; }
+.cloud-dashboard { padding: 39px; display: flex; }
+.block-email-0 { color: #d1fd6c; font-size: 15px; margin-bottom: 5px; }
+.block-session-1 { color: #34378b; font-size: 15px; margin-bottom: 5px; }
+.block-metrics-2 { color: #727624; font-size: 14px; margin-bottom: 5px; }
+.block-notify-3 { color: #3ee4bb; font-size: 12px; margin-bottom: 5px; }
+.block-cluster-4 { color: #c0bbd9; font-size: 18px; margin-bottom: 5px; }
+.block-invoice-5 { color: #4655ac; font-size: 17px; margin-bottom: 5px; }
+.block-invoice-6 { color: #f818ad; font-size: 14px; margin-bottom: 5px; }
